@@ -1,0 +1,43 @@
+.font-bebas{
+    font-family: 'Bebas Neue', cursive;
+
+}
+.font-roboto{
+    font-family: 'Roboto', sans-serif;
+    color: rgba(54, 57, 88, 1);
+}
+h1{
+    font-size: 70px;
+}
+h3{
+    font-size: 40px;
+}
+p{
+    font-size: 14px;
+}
+.text-color1{
+    color: rgba(250, 190, 76, 1);
+    margin-bottom: -10px;
+}
+.text-color2{
+    color: rgba(54, 57, 88, 1);
+    margin-top: -10px;
+}
+
+.fit-image{
+    background-color: aliceblue;
+    width: 100%;
+    object-fit:contain;
+    height: 300px;
+    }
+.radius1{
+        border-radius: 25px;
+    }
+.button-style {
+        border-radius: 10px;
+        color: white;
+        font-weight: 400;
+        background-image: linear-gradient(60deg,rgba(164, 188, 70, 1),rgba(133, 160, 25, 1));
+        display: inline-block;
+    }
+    
